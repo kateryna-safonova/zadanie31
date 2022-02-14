@@ -1,6 +1,6 @@
-let mother = 54;
-let father = 57;
-let children = 24;
-let family = [54, 57, 24]
+let motherAge = 54;
+let fatherAge = 57;
+let childAge = 24;
+let familyAge = [motherAge, fatherAge, childAge]
 
-console.log(family)
+console.log(familyAge)
